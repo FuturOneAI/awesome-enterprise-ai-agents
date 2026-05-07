@@ -100,6 +100,7 @@ Tools for evaluating and benchmarking AI agent performance.
 | [GAIA](https://huggingface.co/gaia-benchmark) | General agents | Multi-step reasoning benchmark |
 | [AgentBench](https://github.com/THUDM/AgentBench) | Multi-domain | 8 environment benchmark |
 | [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) | Agent evaluation | UK AISI evaluation framework |
+| [AI Agent Evaluation Framework](https://github.com/FuturOneAI/ai-agent-evaluation-framework) | Enterprise agents | Task completion, accuracy, cost, reliability metrics |
 
 ## Infrastructure
 
@@ -116,7 +117,9 @@ Tools and services for running AI agents in production.
 ## Learning Resources
 
 ### Guides
-- [Enterprise AI Agent Guide](https://github.com/FuturOneAI/enterprise-ai-agent-playbook) — Production patterns for enterprise AI agents
+- [Enterprise AI Agent Playbook](https://github.com/FuturOneAI/enterprise-ai-agent-playbook) — Production deployment: architecture, reliability, security, cost management
+- [AI Agent Evaluation Framework](https://github.com/FuturOneAI/ai-agent-evaluation-framework) — Metrics and benchmarks for evaluating enterprise AI agents
+- [Enterprise AI Agent Guide](https://github.com/FuturMix/enterprise-ai-agent-guide) — Practical guide to building production-grade AI agents
 - [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) — Anthropic's guide to agent design
 - [LangChain Agent Docs](https://python.langchain.com/docs/how_to/#agents) — Agent how-to guides
 
