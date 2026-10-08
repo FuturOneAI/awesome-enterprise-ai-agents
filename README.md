@@ -89,6 +89,7 @@ Platforms that connect AI agents to business tools and processes.
 | [Make](https://make.com) | Visual automation | Complex workflow builder |
 | [n8n](https://github.com/n8n-io/n8n) | Open-source automation | Self-hosted workflow engine |
 | [Activepieces](https://github.com/activepieces/activepieces) | Open-source automation | No-code automation builder |
+| [Tale](https://github.com/tale-project/tale) | Self-hosted team workflows | Versioned automations and reviewed task deliverables |
 
 ## Evaluation & Testing
 
